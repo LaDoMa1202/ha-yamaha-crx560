@@ -1,0 +1,12 @@
+{
+  "domain": "yamaha_crx_n560d",
+  "name": "Yamaha CRX-N560",
+  "codeowners": [
+    "@lars-dobelmann"
+  ],
+  "config_flow": true,
+  "documentation": "",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "3.0.0"
+}
