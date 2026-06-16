@@ -2,7 +2,7 @@
   "domain": "yamaha_crx_n560d",
   "name": "Yamaha CRX-N560",
   "codeowners": [
-    "@lars-dobelmann"
+    "@lars"
   ],
   "config_flow": true,
   "documentation": "",
