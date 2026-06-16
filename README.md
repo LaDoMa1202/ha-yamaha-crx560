@@ -180,8 +180,3 @@ This integration may also work with other Yamaha receivers using the same legacy
 MIT License – see [LICENSE](LICENSE) for details.
 
 ---
-
-<p align="center">
-  Made with ❤️ for the Home Assistant community<br>
-  <sub>Developed & tested in Darmstadt, Germany 🇩🇪</sub>
-</p>
